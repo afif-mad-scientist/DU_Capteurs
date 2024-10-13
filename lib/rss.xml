@@ -1,16 +1,16 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DU CAPTEUR]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>DU CAPTEUR</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 13 Oct 2024 13:48:51 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 13 Oct 2024 13:48:51 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Se familiariser avec l'impression 3D]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DU CAPTEUR]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>DU CAPTEUR</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 13 Oct 2024 15:10:25 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 13 Oct 2024 15:10:25 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Se familiariser avec l'impression 3D]]></title><description><![CDATA[ 
  <br>Afin de se familiariser avec l'impression 3D et le fonctionnement des imprimantes, j'ai proceder selon ce etapes : <br>
 <br><a data-href="#Création d'un objet Fusion360" href="about:blank#Création_d'un_objet_Fusion360" class="internal-link" target="_self" rel="noopener">Création d'un objet Fusion360</a>
 <br><a data-href="#Telecharger un objet sur https //www.printables.com" href="about:blank#Telecharger_un_objet_sur_https_\www.printables.com" class="internal-link" target="_self" rel="noopener">Telecharger un objet sur https //www.printables.com</a>
 <br><a data-href="#Utiliser le slicer" href="about:blank#Utiliser_le_slicer" class="internal-link" target="_self" rel="noopener">Utiliser le slicer</a>
 <br><a data-href="#Prise en main d'utilisation de l'imprimante" href="about:blank#Prise_en_main_d'utilisation_de_l'imprimante" class="internal-link" target="_self" rel="noopener">Prise en main d'utilisation de l'imprimante</a>
 <br><a data-href="#Resultat de l'impression" href="about:blank#Resultat_de_l'impression" class="internal-link" target="_self" rel="noopener">Resultat de l'impression</a>
-<br><br><br><br><br>]]></description><link>impression-3d\se-familiariser-avec-l'impression-3d.html</link><guid isPermaLink="false">Impression 3D/Se familiariser avec l'impression 3D.md</guid><pubDate>Sun, 13 Oct 2024 13:41:56 GMT</pubDate></item><item><title><![CDATA[Entry Point]]></title><description><![CDATA[ 
+<br><br><br><br><br>]]></description><link>impression-3d\se-familiariser-avec-l'impression-3d.html</link><guid isPermaLink="false">Impression 3D/Se familiariser avec l'impression 3D.md</guid><pubDate>Sun, 13 Oct 2024 13:41:56 GMT</pubDate></item><item><title><![CDATA[My title]]></title><description><![CDATA[ 
  <br><br>Multi column
 Work  
 
 <br><a data-href="Company Page" href="Company Page" class="internal-link" target="_self" rel="noopener">Company Page</a>
-<br><a data-tooltip-position="top" aria-label="home" data-href="home" href="home.html" class="internal-link" target="_self" rel="noopener">Meetings</a>
+<br><a data-tooltip-position="top" aria-label="Index" data-href="Index" href="index.html" class="internal-link" target="_self" rel="noopener">Meetings</a>
 
 name Add meeting
 type link
@@ -43,4 +43,4 @@ Blank container
  TABLE WITHOUT ID link(file.link, title) AS "File", sr-due as "Due" FROM #review WHERE sr-due &lt;= date(today) SORT sr-due LIMIT 10
 Copy
 
-]]></description><link>home.html</link><guid isPermaLink="false">home.md</guid><pubDate>Sun, 13 Oct 2024 13:48:32 GMT</pubDate></item></channel></rss>
+]]></description><link>index.html</link><guid isPermaLink="false">Index.md</guid><pubDate>Sun, 13 Oct 2024 15:10:14 GMT</pubDate></item></channel></rss>
